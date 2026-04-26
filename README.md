@@ -38,6 +38,7 @@ Daily DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shardul-005/DSA-Practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
