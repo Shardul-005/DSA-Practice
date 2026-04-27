@@ -8,6 +8,7 @@ Daily DSA
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Shardul-005/DSA-Practice/tree/main/0051-n-queens/) | Hard |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shardul-005/DSA-Practice/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -55,4 +56,12 @@ Daily DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 <!---LeetCode Topics End-->
