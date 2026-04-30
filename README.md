@@ -33,6 +33,7 @@ Daily DSA
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shardul-005/DSA-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
@@ -52,6 +53,7 @@ Daily DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ Daily DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
