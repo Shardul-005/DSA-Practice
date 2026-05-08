@@ -11,8 +11,7 @@ class Solution {
              if(i == end){
                 ans.add(size);
                 size = 0;
-            }
-            
+            } 
         }
         return ans;
     }
