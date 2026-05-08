@@ -29,11 +29,13 @@ Daily DSA
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shardul-005/DSA-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shardul-005/DSA-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
@@ -54,6 +56,7 @@ Daily DSA
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +73,5 @@ Daily DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 <!---LeetCode Topics End-->
