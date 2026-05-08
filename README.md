@@ -7,6 +7,7 @@ Daily DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Shardul-005/DSA-Practice/tree/main/0051-n-queens/) | Hard |
+| [0118-pascals-triangle](https://github.com/Shardul-005/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -64,6 +65,7 @@ Daily DSA
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Shardul-005/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
