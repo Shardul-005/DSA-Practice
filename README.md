@@ -11,6 +11,7 @@ Daily DSA
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shardul-005/DSA-Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -21,6 +22,7 @@ Daily DSA
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shardul-005/DSA-Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2974-minimum-number-game](https://github.com/Shardul-005/DSA-Practice/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Daily DSA
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shardul-005/DSA-Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
