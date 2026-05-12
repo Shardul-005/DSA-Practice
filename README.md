@@ -8,6 +8,7 @@ Daily DSA
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Shardul-005/DSA-Practice/tree/main/0051-n-queens/) | Hard |
 | [0118-pascals-triangle](https://github.com/Shardul-005/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -20,6 +21,7 @@ Daily DSA
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shardul-005/DSA-Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -27,6 +29,7 @@ Daily DSA
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shardul-005/DSA-Practice/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
@@ -58,6 +61,7 @@ Daily DSA
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -69,6 +73,7 @@ Daily DSA
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
