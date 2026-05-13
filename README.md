@@ -35,6 +35,7 @@ Daily DSA
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Shardul-005/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shardul-005/DSA-Practice/tree/main/2974-minimum-number-game/) | Easy |
 ## Hash Table
@@ -49,6 +50,7 @@ Daily DSA
 | [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shardul-005/DSA-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Shardul-005/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,8 @@ Daily DSA
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Shardul-005/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
