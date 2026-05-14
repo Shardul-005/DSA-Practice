@@ -16,6 +16,7 @@ Daily DSA
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Shardul-005/DSA-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shardul-005/DSA-Practice/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shardul-005/DSA-Practice/tree/main/2974-minimum-number-game/) | Easy |
 ## Sorting
@@ -25,6 +26,7 @@ Daily DSA
 | [0324-wiggle-sort-ii](https://github.com/Shardul-005/DSA-Practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shardul-005/DSA-Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/Shardul-005/DSA-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shardul-005/DSA-Practice/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@ Daily DSA
 | ------- | ------- |
 | [0763-partition-labels](https://github.com/Shardul-005/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shardul-005/DSA-Practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Shardul-005/DSA-Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
