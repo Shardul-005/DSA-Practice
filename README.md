@@ -13,6 +13,7 @@ Daily DSA
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0877-stone-game](https://github.com/Shardul-005/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Shardul-005/DSA-Practice/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [1046-last-stone-weight](https://github.com/Shardul-005/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shardul-005/DSA-Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shardul-005/DSA-Practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -34,6 +35,7 @@ Daily DSA
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shardul-005/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Shardul-005/DSA-Practice/tree/main/0506-relative-ranks/) | Easy |
+| [1046-last-stone-weight](https://github.com/Shardul-005/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shardul-005/DSA-Practice/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
